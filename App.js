@@ -462,6 +462,7 @@ const styles = StyleSheet.create({
     ok: { backgroundColor: '#2ecc71', borderColor: '#fff' },
     no: { backgroundColor: '#e74c3c', borderColor: '#fff' },
     actionArea: { marginTop: 10 },
+
     miniActionBtn: { padding: 12, borderRadius: 10, marginVertical: 3, borderWidth: 1, borderColor: '#fff' },
     actionBtnText: { color: '#fff', textAlign: 'center', fontWeight: 'bold', fontSize: 14 },
     modalOverlay: { flex: 1, backgroundColor: 'rgba(0,0,0,0.85)', justifyContent: 'center', alignItems: 'center' },
