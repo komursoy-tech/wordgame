@@ -436,7 +436,7 @@ const styles = StyleSheet.create({
     centerView: { flex: 1, backgroundColor: '#0f0c29', justifyContent: 'center', alignItems: 'center', padding: 20 },
     fixedPara: { position: 'absolute', top: 15, right: 20, backgroundColor: 'rgba(46, 204, 113, 0.3)', paddingHorizontal: 15, paddingVertical: 8, borderRadius: 20, borderWidth: 1, borderColor: '#2ecc71', zIndex: 999 },
     fixedParaText: { color: '#f1c40f', fontSize: 16, fontWeight: 'bold' },
-    logo: { fontSize: 36, color: '#00d2ff', fontWeight: '900', marginBottom: 30 },
+    logo: { fontSize: 36, color: '#00a8cc', fontWeight: '900', marginBottom: 30 },
     mainBtn: { backgroundColor: '#00d2ff', width: '85%', padding: 15, borderRadius: 15, alignItems: 'center' },
     btnText: { color: '#fff', fontSize: 18, fontWeight: 'bold' },
     title: { color: '#fff', fontSize: 22, marginBottom: 15, fontWeight: 'bold' },
